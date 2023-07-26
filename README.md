@@ -10,7 +10,9 @@ All objects have attributes, methods, and states.
 **Class 3 - What is Object Visibility?:**
 
 UML: Unified Modeling Language
+
 Class Diagram: class -> first letter is uppercase; attribute or method -> all letters are lowercase; method -> parentheses in the end.
+
 Visibility modifiers: 
 - +: public (all classes)
 - -: private (only current class)
