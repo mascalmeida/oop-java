@@ -14,6 +14,7 @@ UML: Unified Modeling Language
 Class Diagram: class -> first letter is uppercase; attribute or method -> all letters are lowercase; method -> parentheses in the end.
 
 Visibility modifiers: 
+
 - +: public (all classes)
 - -: private (only current class)
 - #: protect (current class and sub-classes)
