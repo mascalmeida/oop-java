@@ -1,17 +1,17 @@
 # oop-java
 Repository to save my progress in OOP Java studies. I'm following this course: [curso em video](https://www.cursoemvideo.com/curso/java-poo/aulas/java-poo/)
 
-Class 2 - O que é um Objeto?:
+**Class 2 - What is an Object?:**
 
-Todo objeto tem Atributos, Metodos e Estado
-classe: define os atributos e metodos dos objetos
-objeto: é uma instancia de uma classe
+All objects have attributes, methods, and states.
+- class: define the attributes and methods
+- object: it is a class instance
 
-Class 3 - O que é Visibilidade em um Objeto?:
+**Class 3 - What is Object Visibility?:**
 
 UML: Unified Modeling Language
-Diagrama de Classes: classe letra maiuscula; atributo ou metodo letra minuscula; metodo com parenteses;
-Modificadores de Visibilidade: 
-- +:publica (todas as outras classes)
-- -:privada (somente a classe atual)
-- #:protegido (classe atual e as sub-classes)
+Class Diagram: class -> first letter is uppercase; attribute or method -> all letters are lowercase; method -> parentheses in the end.
+Visibility modifiers: 
+- +: public (all classes)
+- -: private (only current class)
+- #: protect (current class and sub-classes)
