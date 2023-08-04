@@ -18,3 +18,13 @@ Visibility modifiers:
 - +: public (all classes)
 - -: private (only current class)
 - #: protect (current class and sub-classes)
+
+**Class 4 - Special Methods**
+
+It's recommend to create a get and a set method for each attribute of one class.
+
+- Getters: this method is a security way to get an attribute, to "get" some attribute from an object, insted to access straight we have to use the `<obj>.get<attribute>()` method.
+
+- Setters: this method is a security way to set an attrivute, to "set" some attribute from an object, insted to modify straight we have to use the `<obj>.set<attribute>(<parameter>)` method.
+
+- Construct: this method will run everytime that an object was created, this method will define the standard values for the class attributes. This method has the same name that its class, ex: a class that calls "House", the constructor method will be something like `public House(){ ... }`. The construct and setters methods can work together.
