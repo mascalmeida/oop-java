@@ -28,3 +28,15 @@ It's recommend to create a get and a set method for each attribute of one class.
 - Setters: this method is a security way to set an attrivute, to "set" some attribute from an object, insted to modify straight we have to use the `<obj>.set<attribute>(<parameter>)` method.
 
 - Construct: this method will run everytime that an object was created, this method will define the standard values for the class attributes. This method has the same name that its class, ex: a class that calls "House", the constructor method will be something like `public House(){ ... }`. The construct and setters methods can work together.
+
+**Class 5 - Hands-on with Objects**
+
+Bank account example. Create a bank account class with the follow requisites:
+
+- Attributes: + numConta, # tipo (cc or cp), - dono (name), - saldo, - status (true or false).
+
+- Methods: + abrirConta(){cc=50; cp=150;}, + fecharConta(){saldo=0}, + depositar(){status=true}, + sacar(){status=true; saldo>s;}, + pagarMensal(){cc=12;cp=20;}.
+
+- All special methods: getters, setters and construct{saldo=0 & status=false}.
+
+**Class 6**
