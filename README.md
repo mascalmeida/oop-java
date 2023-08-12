@@ -39,4 +39,35 @@ Bank account example. Create a bank account class with the follow requisites:
 
 - All special methods: getters, setters and construct{saldo=0 & status=false}.
 
-**Class 6**
+**Class 6 - OOP pilars: Encapsulation**
+
+The three pilars of OOP are Encapsulation (abstraction), Inheritance, and Polymorphism, some references separate the absctraction from encpasulation as a fourth pilar.
+
+- Encapsulation definition: hide independent parts of the implementation to allow create invisible parts from the external world. The way to interact with the external world an object encapsulated uses the interface, so, it's important to create a good interface to guarantee the encapsulation quality.
+
+- Encapsulation advantages: 
+
+1. Make the changes invisible; 
+
+2. Easy code reusability; 
+
+3. Fewer collateral effects;
+
+An interfaces don't are similar to classes, but they don't have attributes only methods. To work with encapsulation all attributes from a class have to be created as private (or at least protected) mode.
+
+**Class 7 - Classes relationship**
+
+The aim of this class is understand how create and use different classes in the same context.
+
+- Aggregation concept: it's happening when a class has another class.
+
+**Class 8 - Aggregation**
+
+The aim of this class is show how to create aggregation relation between classes.
+
+---------------
+
+## References
+
+- [OOP pilars 1](https://levelup.gitconnected.com/what-are-inheritance-encapsulation-polymorphism-and-abstraction-in-object-oriented-programming-526770ac18fa)
+- [OOP pilars 2](https://datatrained.com/post/four-pillars-of-oops/)
