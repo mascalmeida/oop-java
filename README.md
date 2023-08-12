@@ -63,7 +63,11 @@ The aim of this class is understand how create and use different classes in the 
 
 **Class 8 - Aggregation**
 
-The aim of this class is show how to create aggregation relation between classes.
+The aim of this class is show how to create aggregation relation between classes. To practice the concept the relation above was built in [Aula07](https://github.com/mascalmeida/oop-java/tree/main/Aula07) folder:
+
+<p align="center">
+<img width="350px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/343c9b44-202c-4d85-b2bf-4ad426768bb5" />
+</p>
 
 ---------------
 
