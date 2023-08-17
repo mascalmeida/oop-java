@@ -69,6 +69,14 @@ The aim of this class is show how to create aggregation relation between classes
 <img width="350px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/343c9b44-202c-4d85-b2bf-4ad426768bb5" />
 </p>
 
+**Class 9 - Hands-on with Objects 2**
+
+Books, people and readers. Create the system above using POO.
+
+<p align="center">
+<img width="350px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/343c9b44-202c-4d85-b2bf-4ad426768bb5" />
+</p>
+
 ---------------
 
 ## References

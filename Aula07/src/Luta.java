@@ -1,3 +1,4 @@
+import java.util.Objects;
 import java.util.Random;
 public class Luta {
     private Lutador desafiado;
@@ -38,8 +39,8 @@ public class Luta {
     }
 
     public void marcarLuta(Lutador l1, Lutador l2){
-        if (l1.getCategoria() == l2.getCategoria()){
-            if (l1.getNome() != l2.getNome()){
+        if (l1.getCategoria().equals(l2.getCategoria())){
+            if (l1 != l2){
                 this.setAprovada(true);
                 this.setDesafiante(l1);
                 this.setDesafiado(l2);
@@ -49,7 +50,7 @@ public class Luta {
                 this.setAprovada(false);
                 this.setDesafiante(null);
                 this.setDesafiado(null);
-                System.out.println("Luta reprovada! O desafiante e o desafiado precisam ter nomes diferentes.");
+                System.out.println("Luta reprovada! O desafiante e o desafiado não podem ser o mesmo Lutador.");
             }
         } else{
             this.setAprovada(false);
@@ -81,7 +82,7 @@ public class Luta {
         } else {
             System.out.println("Está luta está reprovada! Favor atender os critérios de aprovação:");
             System.out.println("1. Lutadores na mesma categoria de peso");
-            System.out.println("2. Lutadores com nomes diferentes");
+            System.out.println("2. Lutadores diferentes");
         }
 
         System.out.println();
