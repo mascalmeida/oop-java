@@ -77,6 +77,14 @@ Books, people and readers. Create the system above using POO.
 <img width="350px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/343c9b44-202c-4d85-b2bf-4ad426768bb5" />
 </p>
 
+**Class 10 - Inheritance**
+
+The aim of this class is show the inheritance concept. 
+
+- Inheritance allows based a new classe on definition of another class previously created.
+
+- The inheritance will be applied to characteristics (attributes) and behaviors (methods ).
+
 ---------------
 
 ## References
