@@ -1,5 +1,5 @@
 import java.util.Random;
-public class Bolsista extends Aluno {
+public final class Bolsista extends Aluno {
     private boolean bolsa;
 
     public Bolsista(String nome, int idade, String sexo, boolean matricula, String curso, boolean bolsa) {
@@ -14,7 +14,7 @@ public class Bolsista extends Aluno {
     public void setBolsa(boolean bolsa) {
         this.bolsa = bolsa;
     }
-    public void renovarBolsa(){
+    public final void renovarBolsa(){
         if (this.isBolsa()) System.out.println("Your fellowship is active, you don't need to renew now.");
         else{
             this.setBolsa(true);
@@ -22,7 +22,7 @@ public class Bolsista extends Aluno {
         }
     }
     @Override
-    public void mensalidade(){
+    public final void mensalidade(){
         Random rand = new Random();
         int percent = rand.nextInt(3);
         switch (percent) {
