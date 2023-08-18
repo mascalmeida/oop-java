@@ -66,7 +66,7 @@ The aim of this class is understand how create and use different classes in the 
 The aim of this class is show how to create aggregation relation between classes. To practice the concept the relation above was built in [Aula07](https://github.com/mascalmeida/oop-java/tree/main/Aula07) folder:
 
 <p align="center">
-<img width="350px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/343c9b44-202c-4d85-b2bf-4ad426768bb5" />
+<img width="250px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/343c9b44-202c-4d85-b2bf-4ad426768bb5" />
 </p>
 
 **Class 9 - Hands-on with Objects 2**
@@ -74,7 +74,7 @@ The aim of this class is show how to create aggregation relation between classes
 Books, people and readers. Create the system above using POO.
 
 <p align="center">
-<img width="350px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/343c9b44-202c-4d85-b2bf-4ad426768bb5" />
+<img width="250px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/ebd27095-8fff-4833-b31b-aca79fccc071" />
 </p>
 
 **Class 10 - Inheritance**
@@ -83,7 +83,13 @@ The aim of this class is show the inheritance concept.
 
 - Inheritance allows based a new classe on definition of another class previously created.
 
-- The inheritance will be applied to characteristics (attributes) and behaviors (methods ).
+- The inheritance will be applied to characteristics (attributes) and behaviors (methods).
+
+The image above shows the challenge of this class.
+
+<p align="center">
+<img width="250px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/93cc5932-695b-47be-9a9c-e4bedbabbd03" />
+</p>
 
 ---------------
 
