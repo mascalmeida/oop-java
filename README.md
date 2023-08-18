@@ -91,6 +91,20 @@ The image above shows the challenge of this class.
 <img width="250px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/93cc5932-695b-47be-9a9c-e4bedbabbd03" />
 </p>
 
+**Class 11 - Inheritance**
+
+1. Herança de implementação (pobre)
+
+2. Herança para diferença
+
+- Abstract Class: it can't generate objects.
+
+- Abstract Method: it can only be used in interfaces or abstracts classes.
+
+- Final Class: it's only a leaf, it can't generate other leafs.
+
+- Final Method: it can't be specialized.
+
 ---------------
 
 ## References
