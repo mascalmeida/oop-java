@@ -91,7 +91,7 @@ The image above shows the challenge of this class.
 <img width="250px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/93cc5932-695b-47be-9a9c-e4bedbabbd03" />
 </p>
 
-**Class 11 - Inheritance**
+**Class 11 - Inheritance 2**
 
 1. Herança de implementação (pobre)
 
@@ -105,9 +105,22 @@ The image above shows the challenge of this class.
 
 - Final Method: it can't be specialized.
 
+**Class 12 - Polymorfism**
+
+- Definition: Polymorphism means "many forms", and it occurs when we have many classes that are related to each other by inheritance.
+
+- Singnature: The signature is the way to uniquely identify a method. In languages where multiple methods can have the same name, you need to have some other way to avoid ambiguity. The compiler needs to know which of the methods with the same name you are calling. So you need to take advantage of the extra information available in the method to make a decision. The most common is to parse the parameters. If all parameters are the same, you have the same method, if only one of these parameters is different, you have a different method.
+
+In Object-Oriented Programming (OOPS) language, there are two types of polymorphism as below:
+
+1. Static Binding (or Compile time) Polymorphism, e.g., Method Overloading
+
+2. Dynamic Binding (or Runtime) Polymorphism, e.g., Method Overriding
+
 ---------------
 
 ## References
 
 - [OOP pilars 1](https://levelup.gitconnected.com/what-are-inheritance-encapsulation-polymorphism-and-abstraction-in-object-oriented-programming-526770ac18fa)
 - [OOP pilars 2](https://datatrained.com/post/four-pillars-of-oops/)
+- [Polymorfism OOP](https://www.upgrad.com/blog/polymorphism-in-oops/)
