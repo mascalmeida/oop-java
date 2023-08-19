@@ -117,6 +117,12 @@ In Object-Oriented Programming (OOPS) language, there are two types of polymorph
 
 2. Dynamic Binding (or Runtime) Polymorphism, e.g., Method Overriding
 
+**Class 13 - Polymorfism (Overloading)**
+
+- Overriding: use methods with the same signatures.
+
+- Overloading: use methods with different signatures.
+
 ---------------
 
 ## References
