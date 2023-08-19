@@ -127,14 +127,13 @@ In Object-Oriented Programming (OOPS) language, there are two types of polymorph
 
 - Overloading: use methods with different signatures.
 
-**Final Project - Part 1**
+**Final Project**
 
 The aim of this class is working on the following diagram:
 
 <p align="center">
-<img width="250px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/18e35e04-467c-4821-87da-6d2f57df9735" />
+<img width="250px"  src="https://github.com/mascalmeida/oop-java/assets/48625700/8883d669-6887-47c6-adef-b0935071e1f3" />
 </p>
-
 
 ---------------
 
